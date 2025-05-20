@@ -48,7 +48,7 @@ Clone the repository:
 git clone https://github.com/NiazTahi/chat-log-summarizer-qtec.git
 cd chat-log-summarizer-qtec
 ```
-1. Install dependencies:
+Install dependencies:
 ```
 pip install -r requirements.txt
 ```
